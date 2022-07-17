@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afifyadel&label=Profile%20views&color=0e75b6&style=flat" alt="afifyadel" /> </p>
 
-- 👨‍💻 All of my projects are available at [linkedin.com/in/afifyadel/](linkedin.com/in/afifyadel/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/afifyadel/](https://www.linkedin.com/in/afifyadel/)
 
 - 💬 Ask me about **Problem-Solving, Web development, C#, Angular**
 
